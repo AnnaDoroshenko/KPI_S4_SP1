@@ -1,0 +1,4 @@
+﻿  Lab10.cpp
+Lab10.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  Lab10.vcxproj -> D:\Study\II course\IV semester\СП1\SP_lab\lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> D:\Study\II course\IV semester\СП1\SP_lab\lab10\Debug\Lab10.pdb (Partial PDB)
